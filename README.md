@@ -11,7 +11,7 @@
 <br/><br/>
 
 <p align="center" style="font-size: 20px;">
-  💻 MY SNS <br/><br/><
+  💻 MY SNS <br/><br/>
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
 </p>
 

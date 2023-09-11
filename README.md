@@ -5,7 +5,9 @@
 <br/><br/>
 
 <p align="center" style="font-size: 24px;">
-  <strong>Charting the Journey to Becoming a DevOps Engineer...!</strong>
+  Charting the Journey to Becoming a DevOps Engineer...!<br/><br/>
+  Currently, I am engrossed in my role as a backend developer, with a keen focus on server development and operations. <br/><br/>
+  I have a burgeoning interest in infrastructure studies and am driven to craft codes that offer seamless scalability and flexibility.<br/><br/>
 </p>
 
 <br/><br/>

@@ -5,9 +5,9 @@
 <br/><br/>
 
 
- ## Charting the Journey to Becoming a DevOps Engineer...!
- ## Currently, I am engrossed in my role as a backend developer, with a keen focus on server development and operations. 
- ## I have a burgeoning interest in infrastructure studies and am driven to craft codes that offer seamless scalability and flexibility.
+ ## 🤔 Charting the Journey to Becoming a DevOps Engineer...!
+ ## 🔥 Currently, I am engrossed in my role as a backend developer, with a keen focus on server development and operations. 
+ ## 😊 I have a burgeoning interest in infrastructure studies and am driven to craft codes that offer seamless scalability and flexibility.
 
 
 <br/><br/>

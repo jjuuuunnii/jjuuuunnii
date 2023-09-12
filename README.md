@@ -14,8 +14,11 @@
 
 <p align="center" style="font-size: 20px;">
   💻 MY SNS <br/><br/>
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/jjun_ii__/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
+
 
 <br/><br/>
 

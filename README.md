@@ -25,10 +25,6 @@
 
 <h1>👌 MORE INFO ABOUT ME</h1>
 
-<p>
-  자세한 정보는 <a href="https://www.notion.so/Portfolio-c9439f85349547ffbbc5ace0b8a0e31b?pvs=4">😆</a>에서 확인하실 수 있습니다!
-</p>
-
 <br/><br/>
 
 <h2>💻 MY SNS</h2><br/><br/>

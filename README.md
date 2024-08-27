@@ -4,9 +4,6 @@
 
 <h1 align="center">👋 Hello, I’m JJUUUNNNII!</h1>
 <p align="center">
-  <em>Passionate backend developer with a knack for creating efficient and scalable solutions.</em>
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/Backend%20Developer-%230077B5.svg?&style=for-the-badge" alt="Backend Developer">
   <img src="https://img.shields.io/badge/Cloud%20Enthusiast-%23F7DF1E.svg?&style=for-the-badge" alt="Cloud Enthusiast">
 </p>

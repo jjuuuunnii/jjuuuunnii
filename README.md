@@ -1,7 +1,16 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hello!+I+am+JJUUUNNNII!;Backend+Developer;Welcome+to+my+GitHub+Profile!&center=true&vCenter=true&height=45" alt="Typing SVG">
 </p>
+
+<h1 align="center">👋 Hello, I’m JJUUUNNNII!</h1>
+<p align="center">
+  <em>Passionate backend developer with a knack for creating efficient and scalable solutions.</em>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20Developer-%230077B5.svg?&style=for-the-badge" alt="Backend Developer">
+  <img src="https://img.shields.io/badge/Cloud%20Enthusiast-%23F7DF1E.svg?&style=for-the-badge" alt="Cloud Enthusiast">
+</p>
+<br/>
 
 ## 🤔 My Journey
 
@@ -27,40 +36,31 @@
 <br/><br/>
 
 ## 💻 My Stack
-<br/>
 
-<table align="center">
-  <tr>
-    <td><img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/></td>
-  </tr>
-</table>
+<div align="center">
+  <span><img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/></span>
+</div>
 
-<table align="center">
-  <tr>
-    <td><img src="https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/springsecurity-6DB33F.svg?&style=for-the-badge&logo=springsecurity&logoColor=white"/></td>
-  </tr>
-</table>
+<div align="center">
+  <span><img src="https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/springsecurity-6DB33F.svg?&style=for-the-badge&logo=springsecurity&logoColor=white"/></span>
+</div>
 
-<table align="center">
-  <tr>
-    <td><img src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/googlecloud-4285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/apachekafka-231F20.svg?&style=for-the-badge&logo=apachekafka&logoColor=white"/></td>
-  </tr>
-</table>
+<div align="center">
+  <span><img src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/googlecloud-4285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/apachekafka-231F20.svg?&style=for-the-badge&logo=apachekafka&logoColor=white"/></span>
+</div>
 
-<table align="center">
-  <tr>
-    <td><img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white"/></td>
-  </tr>
-</table>
+<div align="center">
+  <span><img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white"/></span>
+</div>
 
 <br/><br/>
 

@@ -77,12 +77,3 @@
 🥇 공개 소프트웨어 개발자 대회 우수작
 🥇 2024 여름 ICIP&캡스톤디자인 우수상
 ```
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jjuuuunnii&show_icons=true&hide_border=true&bg_color=0a0a0b&title_color=e8b931&icon_color=e8b931&text_color=a8a8a4&ring_color=e8b931" height="160">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjuuuunnii&layout=compact&hide_border=true&bg_color=0a0a0b&title_color=e8b931&text_color=a8a8a4" height="160">
-
-</div>

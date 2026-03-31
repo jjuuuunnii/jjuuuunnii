@@ -1,64 +1,88 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hello!+I+am+JJUUUNNNII!;Backend+Developer;Welcome+to+my+GitHub+Profile!&center=true&vCenter=true&height=45" alt="Typing SVG">
-</p>
-
-<h1 align="center">👋 Hello, I’m JJUUUNNNII!</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Developer-%230077B5.svg?&style=for-the-badge" alt="Backend Developer">
-  <img src="https://img.shields.io/badge/Cloud%20Enthusiast-%23F7DF1E.svg?&style=for-the-badge" alt="Cloud Enthusiast">
-</p>
-<br/>
-
-## 🤔 My Journey
-
-- **2023.09.19 - 2023.12.29:** 구름톤 UNIV. 1기 백엔드 참여  
-- **2023.09.15 - Present:** GDSC 1기 Server/Cloud Member  
-- **2023.08.10 - 2023.09.15:** Clipper 0기 프로젝트 백엔드 멘토  
-- **2023.03.10 - 2023.10.09:** 2023 한이음 프로젝트  
-- **2023.03.28 - Present:** (주)발켄쉐어링 백엔드 개발자  
-- **2023.03.21 - Present:** HI-SW봉사단  
-- **2023.11.18 - 2023.11.20:** 동국톤 백엔드 참여  
-- **2023.09.21 - 2023.11.30:** 신서중학교 특수학급 멘토링  
-- **2024.01.12 - 2024.01.13:** 2024 GDSC 눈꽃톤 참여  
-
-<br/><br/>
-
-## 🔥 Achievements
-
-- **2023.06.22:** HI-SW 봉사단 우수교안 수상  
-- **2023.11.19:** 구름톤 UNIV.1기 대상 수상  
-- **2023.12.20:** 동국톤 1기 대상 수상  
-- **2024.01.13:** 눈꽃톤 최우수상 수상
-- **2024.06.21:** 캡스톤디자인 우수상 수상
-
-<br/><br/>
-
-## 💻 My Stack
-
 <div align="center">
-  <span><img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/></span>
+
+```
+ ____    _    ____ _  _______ _   _ ____  
+| __ )  / \  / ___| |/ / ____| \ | |  _ \ 
+|  _ \ / _ \| |   | ' /|  _| |  \| | | | |
+| |_) / ___ \ |___| . \| |___| |\  | |_| |
+|____/_/   \_\____|_|\_\_____|_| \_|____/ 
+                                DEVELOPER
+```
+
+### 항상 *WHY?* 를 먼저 고민하는 백엔드 개발자
+
+<br>
+
+[![Email](https://img.shields.io/badge/kangseung1110@gmail.com-1a1a1a?style=flat-square&logo=gmail&logoColor=e8b931)](mailto:kangseung1110@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=flat-square&logo=googlechrome&logoColor=e8b931)](https://jjuuuunnii.github.io)
+
 </div>
 
-<div align="center">
-  <span><img src="https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/springsecurity-6DB33F.svg?&style=for-the-badge&logo=springsecurity&logoColor=white"/></span>
-</div>
+---
+
+#### `whoami`
+
+> 어떤 기술을 쓸지보다, **왜 이 기술이어야 하는지**를 먼저 묻습니다.
+> 
+> IoT 기반 공유 모빌리티 서비스에서 3인 백엔드 팀을 리드하며, 코드 리뷰에서도 "이게 맞아?"보다 **"왜 이 방식을 선택했어?"** 를 먼저 물었습니다.
+
+---
+
+#### `tech-stack`
+
+| Category | Stack |
+|:---|:---|
+| **Language** | ![Java](https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=e8b931) |
+| **Framework** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a1a1a?style=flat-square&logo=springboot&logoColor=6DB33F) ![Spring Security](https://img.shields.io/badge/Spring_Security-1a1a1a?style=flat-square&logo=springsecurity&logoColor=6DB33F) ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-1a1a1a?style=flat-square&logo=spring&logoColor=6DB33F) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=4479A1) ![Redis](https://img.shields.io/badge/Redis-1a1a1a?style=flat-square&logo=redis&logoColor=DC382D) ![MongoDB](https://img.shields.io/badge/MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=47A248) |
+| **Messaging** | ![Kafka](https://img.shields.io/badge/Kafka-1a1a1a?style=flat-square&logo=apachekafka&logoColor=white) |
+| **Infra** | ![AWS](https://img.shields.io/badge/AWS-1a1a1a?style=flat-square&logo=amazonaws&logoColor=FF9900) ![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=2496ED) ![Nginx](https://img.shields.io/badge/Nginx-1a1a1a?style=flat-square&logo=nginx&logoColor=009639) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1a1a?style=flat-square&logo=githubactions&logoColor=2088FF) |
+
+---
+
+#### `experience`
+
+```
+(주)발켄모빌리티  ·  백엔드 개발팀장  ·  2024.04 — 2025.12
+```
+
+**플로드(Fload)** — IoT 기반 공유 자전거 플랫폼
+
+- `V1→V2` MQTT 폴링 → **Kafka 비동기 이벤트 스트림** 전환, 명령 유실 해소
+- `V2→V3` Layered → **이벤트 기반 DDD** 전환, 서비스 클래스 800줄 → 200줄
+- `V3→V4` **CQRS 도입**, 조회 API 응답시간 40% 개선
+- 결제 연동 및 PG사 제약 대응 (PortOne v1→v2 전환)
+- Discord Webhook 기반 **3단계 에러 모니터링** 구축, MTTR 70% 감소
+
+---
+
+#### `projects`
+
+| Project | Description | Tech |
+|:---|:---|:---|
+| **[Giggle](https://github.com/Team-inglo)** | 외국인 유학생 아르바이트 플랫폼 · 공개SW 대회 우수작 | `Spring Boot` `JPA` `MySQL` |
+| **Pengdolli** | 날씨 기반 옷차림 추천 펭귄 서비스 · GDSC 눈꽃톤 최우수상 | `Spring Boot` `Spring Security` `Docker` |
+| **Wave** | 전쟁 뉴스 지역별 시각화 · 2024 GDSC Solution Challenge | `Spring Boot` `Flask` `MySQL` |
+| **Mooco** | 일상 사진 바코드아트 · 구름톤 Univ 1기 대상 | `Spring Boot` `Java AWT` |
+| **우편함 시리즈** | 익명 편지 서비스 · 총 3,000명 사용자 | `Spring Boot` `Spring Security` |
+
+---
+
+#### `awards`
+
+```
+🏆 구름톤 UNIV. 1기 대상
+🏆 동국톤 대상
+🥇 GDSC 눈꽃톤 최우수상
+🥇 공개 소프트웨어 개발자 대회 우수작
+🥇 2024 여름 ICIP&캡스톤디자인 우수상
+```
+
+---
 
 <div align="center">
-  <span><img src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/googlecloud-4285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/apachekafka-231F20.svg?&style=for-the-badge&logo=apachekafka&logoColor=white"/></span>
+
+<img src="https://github-readme-stats.vercel.app/api?username=jjuuuunnii&show_icons=true&hide_border=true&bg_color=0a0a0b&title_color=e8b931&icon_color=e8b931&text_color=a8a8a4&ring_color=e8b931" height="160">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjuuuunnii&layout=compact&hide_border=true&bg_color=0a0a0b&title_color=e8b931&text_color=a8a8a4" height="160">
+
 </div>
-
-<div align="center">
-  <span><img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white"/></span>
-</div>
-
-<br/><br/>
-
